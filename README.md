@@ -1,2 +1,16 @@
 # Java-Restaurant-Billing-System
-A simple Java console-based Restaurant Billing System that allows users to select items, enter quantity, and generates a bill with GST.
+This is a simple Java-based console application that simulates a restaurant billing system.
+
+## Features
+- Displays menu
+- Takes user input
+- Calculates total bill
+- Adds 5% GST
+- Prints final receipt
+
+## Technologies Used
+- Java
+- OOP Concepts
+
+## Author
+Ardra Rajesh
